@@ -4,7 +4,7 @@
 
 <h2>JavaScript Arithmetic</h2>
 <p>A typical arithmetic operation takes two numbers and produces a new number.</p>
-
+<p>A typical arithmetic operation takes two numbers and produces a new number.</p>
 <p id="demo">hhhhhhhhhh</p>
 
 <script>
